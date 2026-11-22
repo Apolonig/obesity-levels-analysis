@@ -5,6 +5,10 @@
 
 ## Reasons for сhoosing the Dataset
 
+1. I'm interested in data that pertains to real people
+2. I want my model to make predictions that can truly help and be useful
+3. I'm interested in the application of machine learning in medicine  
+
 ## Hypotheses
 
 1. A random forest will achieve a higher average F1 macro on cross-validation than a single decision tree.
